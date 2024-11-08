@@ -4,7 +4,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/f82c6d98a2441c84f2ef/maintainability)](https://codeclimate.com/github/coopdevs/timeoverflow/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/f82c6d98a2441c84f2ef/test_coverage)](https://codeclimate.com/github/coopdevs/timeoverflow/test_coverage)
 
-#### www.timeoverflow.org 
+#### www.timeoverflow.org
 
 🏦 ⌛ Time Bank management system. [Learn more about Time Banks](http://www.bdtonline.org/).
 
