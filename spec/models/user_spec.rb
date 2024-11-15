@@ -22,7 +22,7 @@ RSpec.describe User do
       user = Fabricate.build(:user, email: "")
 
       expect(user.save).to eq(false)
-      expect(user.setup_and_save_user).to eq(true)
+      expect(user.setup_and_save_user).to eq(false)
     end
   end
 
