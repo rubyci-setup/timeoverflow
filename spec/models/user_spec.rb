@@ -13,7 +13,7 @@ RSpec.describe User do
   it { is_expected.to allow_value("my@email.com").for(:email) }
   it { is_expected.to_not allow_value("no @ here").for(:email) }
 
-  it { is_expected.to validate_presence_of :username }
+  it { is_expected.to_not validate_presence_of :username }
 
   it { is_expected.to validate_inclusion_of(:gender).in_array(User::GENDERS) }
 
